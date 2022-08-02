@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="AmazonTest">
+    <classes>
+      <class name="log4JExample.Amazontest"/>
+      <!-- <class name="log4JExample.HRMLogin"/> -->
+    </classes>
+  </test>
+  
+  <test  name="HRMTest">
+    <classes>
+    <!--   <class name="log4JExample.Amazontest"/> -->
+      <class name="log4JExample.HRMLogin"/>
+    </classes>
+  </test> 
+  
+   <!-- Test -->
+</suite> <!-- Suite -->

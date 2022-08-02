@@ -1,0 +1,237 @@
+2022-07-11 00:03:52,724 - HRM_Login_Test -INFO - londined successfully
+2022-07-11 00:05:43,156 - HRM_Login_Test -INFO - lunched the apllication successfully
+2022-07-11 00:05:43,268 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:05:43,353 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:05:47,234 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:10:23,723 - HRM_Login_Test -INFO - lunched the apllication successfully
+2022-07-11 00:10:23,750 - HRM_Login_Test -INFO - Execution starts
+2022-07-11 00:10:23,852 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:10:23,919 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:10:25,241 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:10:25,247 - HRM_Login_Test -INFO - completed with execution
+2022-07-11 00:11:29,991 - HRM_Login_Test -INFO - lunched the apllication successfully
+2022-07-11 00:11:30,020 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 00:11:30,112 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:11:30,187 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:11:31,330 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:11:31,335 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 00:28:41,869 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 00:28:41,874 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 00:28:46,696 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 00:28:50,947 - HRM_Login_Test -INFO - lunched the apllication successfully
+2022-07-11 00:28:50,973 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:28:51,121 - IBM_Amazon_Module -INFO - enter searchText: iphone
+2022-07-11 00:28:52,828 - IBM_Amazon_Module -INFO - click on search button
+2022-07-11 00:28:52,831 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:28:52,832 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:28:54,843 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/s?k=iphone&ref=nb_sb_noss
+2022-07-11 00:28:54,845 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:28:54,848 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 00:28:54,913 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:28:55,001 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:28:56,392 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:28:56,394 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 00:29:04,574 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 00:31:03,564 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 00:31:03,569 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 00:31:06,024 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 00:31:09,969 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 00:31:10,006 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:31:10,177 - IBM_Amazon_Module -INFO - enter searchText: iphone
+2022-07-11 00:31:12,066 - IBM_Amazon_Module -INFO - click on search button
+2022-07-11 00:31:12,070 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:31:12,072 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:31:14,084 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/s?k=iphone&ref=nb_sb_noss
+2022-07-11 00:31:14,088 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:31:14,091 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 00:31:14,169 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:31:14,253 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:31:15,706 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:31:15,711 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 00:31:23,871 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 00:32:33,816 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 00:32:33,819 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 00:32:36,380 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 00:32:40,691 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 00:32:40,718 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:32:40,855 - IBM_Amazon_Module -INFO - enter searchText: iphone
+2022-07-11 00:32:42,567 - IBM_Amazon_Module -INFO - click on search button
+2022-07-11 00:32:42,571 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:32:42,572 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:32:44,583 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/s?k=iphone&ref=nb_sb_noss
+2022-07-11 00:32:44,585 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:32:44,588 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 00:32:44,668 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:32:44,742 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:32:46,133 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:32:46,135 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 00:32:54,310 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 00:37:00,247 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 00:37:00,253 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 00:37:02,506 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 00:37:06,896 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 00:37:06,931 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:37:07,094 - IBM_Amazon_Module -INFO - enter searchText: iphone
+2022-07-11 00:37:08,884 - IBM_Amazon_Module -INFO - click on search button
+2022-07-11 00:37:08,888 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:37:08,890 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:37:10,970 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/s?k=iphone&ref=nb_sb_noss
+2022-07-11 00:37:10,972 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:37:10,977 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 00:37:21,100 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:37:21,188 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:37:22,600 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:37:22,603 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 00:37:30,782 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 00:39:49,636 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 00:39:49,641 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 00:39:51,738 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 00:39:55,732 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 00:39:55,767 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:39:55,921 - IBM_Amazon_Module -INFO - enter searchText: iphone
+2022-07-11 00:39:57,787 - IBM_Amazon_Module -INFO - click on search button
+2022-07-11 00:39:57,795 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:39:57,797 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:39:59,808 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/s?k=iphone&crid=VMY2RKYRBBTX&sprefix=%2Caps%2C203&ref=nb_sb_noss
+2022-07-11 00:39:59,810 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:39:59,813 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 00:39:59,902 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:39:59,981 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:40:01,392 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:40:01,394 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 00:40:09,591 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 00:42:33,588 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 00:42:33,592 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 00:42:36,051 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 00:42:36,079 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:42:37,580 - IBM_Amazon_Module -INFO - enter searchText: iphone
+2022-07-11 00:42:39,182 - IBM_Amazon_Module -INFO - click on search button
+2022-07-11 00:42:39,186 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:42:39,187 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 00:42:41,207 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/s?k=iphone&ref=nb_sb_noss
+2022-07-11 00:42:41,210 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 00:42:49,420 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 00:42:53,436 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 00:42:53,438 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 00:42:53,518 - HRM_Login_Test -INFO - user name entered
+2022-07-11 00:42:53,597 - HRM_Login_Test -INFO - password entered
+2022-07-11 00:42:54,899 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 00:42:54,903 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 01:10:28,150 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 01:10:28,173 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 01:10:28,261 - HRM_Login_Test -INFO - user name entered
+2022-07-11 01:10:28,338 - HRM_Login_Test -INFO - password entered
+2022-07-11 01:10:29,715 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 01:10:29,719 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 01:13:29,772 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 01:13:29,797 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 01:13:29,890 - HRM_Login_Test -INFO - user name entered
+2022-07-11 01:13:29,959 - HRM_Login_Test -INFO - password entered
+2022-07-11 01:13:31,364 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 01:13:31,368 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 01:13:31,586 - HRM_Login_Test -INFO - Screenshot captured
+2022-07-11 01:14:16,272 - HRM_Login_Test -INFO - lunched the HRM application successfully
+2022-07-11 01:14:16,297 - HRM_Login_Test -INFO - ===========Execution starts==========
+2022-07-11 01:14:16,391 - HRM_Login_Test -INFO - user name entered
+2022-07-11 01:14:16,467 - HRM_Login_Test -INFO - password entered
+2022-07-11 01:14:17,845 - HRM_Login_Test -INFO - application logined successfully
+2022-07-11 01:14:17,851 - HRM_Login_Test -INFO - ============completed with execution==============
+2022-07-11 01:14:18,068 - HRM_Login_Test -INFO - Screenshot captured
+2022-07-11 22:45:42,915 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 22:45:42,925 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 22:45:45,238 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 22:45:45,259 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 22:45:45,679 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 22:45:45,681 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 22:45:47,697 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/
+2022-07-11 22:45:47,699 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 22:45:55,903 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:19:56,795 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:19:56,799 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:19:58,680 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:19:58,700 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:19:58,707 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:19:59,255 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:19:59,256 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:20:01,273 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/
+2022-07-11 23:20:01,275 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:20:09,464 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:21:19,926 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:21:19,931 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:21:22,127 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:21:22,147 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:21:22,153 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:21:22,985 - IBM_Amazon_Module -INFO - Page title isOnline Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-11 23:21:22,992 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:21:22,994 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:21:25,004 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/
+2022-07-11 23:21:25,006 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:21:33,185 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:22:26,205 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:22:26,209 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:22:28,588 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:22:28,612 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:22:28,619 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:22:29,285 - IBM_Amazon_Module -INFO - Page title is: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-11 23:22:29,291 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:22:29,294 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:22:31,305 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/
+2022-07-11 23:22:31,307 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:22:39,493 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:27:08,225 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:27:08,230 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:27:10,490 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:27:10,527 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:27:10,536 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:27:11,311 - IBM_Amazon_Module -INFO - Page title is: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-11 23:27:13,405 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:27:13,408 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:27:15,424 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: data:,
+2022-07-11 23:27:15,426 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:27:19,521 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:27:39,799 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:27:39,805 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:27:41,836 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:27:41,861 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:27:41,878 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:27:42,511 - IBM_Amazon_Module -INFO - Page title is: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-11 23:27:44,624 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:27:44,626 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:27:46,646 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: data:,
+2022-07-11 23:27:46,649 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:27:50,742 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:28:21,771 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:28:21,775 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:28:23,578 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:28:23,599 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:28:23,605 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:28:24,197 - IBM_Amazon_Module -INFO - Page title is: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-11 23:28:26,316 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:28:26,320 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:28:28,342 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: data:,
+2022-07-11 23:28:28,344 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:28:32,420 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:33:32,689 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:33:32,696 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:33:34,805 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:33:34,828 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:33:34,835 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:33:35,475 - IBM_Amazon_Module -INFO - Page title is: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-11 23:33:39,442 - IBM_Amazon_Module -INFO - Page title is: Car & Motorbike: Buy Car & Motorbike Online at Best Prices in India-Amazon.in
+2022-07-11 23:33:39,445 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:33:39,447 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:33:41,460 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/b?ie=UTF8&node=4772060031&pf_rd_r=SP6E58JQC0YVYZFTRW59&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pd_rd_r=ad8b5c82-ec2e-49c3-85dd-cbcc0e50a612&pd_rd_w=iJZsa&pd_rd_wg=NEmIo&ref_=pd_gw_unk
+2022-07-11 23:33:41,462 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:33:45,670 - IBM_Amazon_Module -INFO - browser closed successfully.
+2022-07-11 23:34:23,058 - IBM_Amazon_Module -INFO - =================================
+2022-07-11 23:34:23,062 - IBM_Amazon_Module -INFO - chrome browser launched.
+2022-07-11 23:34:24,836 - IBM_Amazon_Module -INFO - Amazon app launched. - https://www.amazon.in/
+2022-07-11 23:34:24,862 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:34:24,872 - IBM_Amazon_Module -INFO - =====TestCase: LoginTest execution in progress
+2022-07-11 23:34:25,649 - IBM_Amazon_Module -INFO - Page title is: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2022-07-11 23:34:29,704 - IBM_Amazon_Module -INFO - Page title is: Car & Motorbike: Buy Car & Motorbike Online at Best Prices in India-Amazon.in
+2022-07-11 23:34:29,707 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:34:29,709 - IBM_Amazon_Module -INFO - =======Test Case execution in progress..Case=====
+2022-07-11 23:34:31,728 - IBM_Amazon_Module -INFO - validation of logout passed, current application URL: https://www.amazon.in/b?ie=UTF8&node=4772060031&pf_rd_r=D4K2G05CCYT68T5RMN1F&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pd_rd_r=975a43e6-2cce-4555-a4c8-71c65bd8ff81&pd_rd_w=izZUL&pd_rd_wg=pIOUh&ref_=pd_gw_unk
+2022-07-11 23:34:31,731 - IBM_Amazon_Module -INFO - ==========Test Case execution completed===========
+2022-07-11 23:34:39,989 - IBM_Amazon_Module -INFO - browser closed successfully.
